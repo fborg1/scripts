@@ -1,2 +1,2 @@
 # scripts
-Base scripts for the web
+Base script for the web
